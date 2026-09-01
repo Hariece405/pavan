@@ -1,2 +1,4 @@
 pavan data removed
 there is no data
+y=20
+x=10
