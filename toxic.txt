@@ -1,2 +1,4 @@
 pavan created the data
 java files are uploaded
+x=20
+y=10
